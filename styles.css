@@ -46,6 +46,9 @@ color: black;
 }
 #calabel {
   color: green;
+  padding: 0;
+  border: none;
+  margin: 0;
 
 }
 #gobtn {
