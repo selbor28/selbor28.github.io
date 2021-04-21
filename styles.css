@@ -41,21 +41,17 @@ color: black;
 }
 #btn1 {
   background-color: #e88a3a;
-  border: none;
-  padding: 0;
+  border: solid 1px;
+  padding: 10px;
   margin: auto;
+  border-color: #6e4020;
 }
 h4.calabel {
   color: green;
 text-align: center;
 
 }
-#gobtn {
-padding: 0;
-margin: auto;
 
-  background-color: aqua;
-}
 #canvas1 {
   width: 480px;
   height: 320px;
