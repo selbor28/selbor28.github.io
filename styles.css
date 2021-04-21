@@ -31,13 +31,13 @@ text-align: center;
 background: black;
 width: 25%;
 background-image: linear-gradient(to bottom right,white,black);
-color: grey;
+color: black;
 }
 .column.right {
 background: black;
 width: 25%;
 background-image: linear-gradient(to bottom right,white,black);
-color: grey;
+color: black;
 }
 #btn1 {
   background-color: aqua;
