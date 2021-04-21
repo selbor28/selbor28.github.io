@@ -45,11 +45,9 @@ color: black;
   padding: 0;
   margin: auto;
 }
-#calabel {
+h4.calabel {
   color: green;
-  padding: 0;
-  border: none;
-  margin: 0;
+text-align: center;
 
 }
 #gobtn {
