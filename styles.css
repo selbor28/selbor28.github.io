@@ -3,7 +3,7 @@
 
 }
 h1.head1 {
-  color: red;
+  color: white;
 text-align: center;
 }
 .header1 {
@@ -24,16 +24,19 @@ text-align: center;
   border:  solid 2px;
 
 
-
   }
 
 .column.left {
-background: aqua;
+background: black;
 width: 25%;
+background-image: linear-gradient(to bottom right,white,black);
+
 }
 .column.right {
-background: orange;
+background: black;
 width: 25%;
+background-image: linear-gradient(to bottom right,white,black);
+
 }
 #btn1 {
   background-color: aqua;
