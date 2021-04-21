@@ -30,13 +30,13 @@ text-align: center;
 .column.left {
 background: black;
 width: 25%;
-background-image: linear-gradient(to bottom right,white 20%,black);
+background-image: linear-gradient(to bottom right,white 10%,black);
 color: black;
 }
 .column.right {
 background: black;
 width: 25%;
-background-image: linear-gradient(to bottom right,white 20%,black);
+background-image: linear-gradient(to bottom right,white 10%,black);
 color: black;
 }
 #btn1 {
@@ -88,7 +88,7 @@ body {
 .footer1 {
   background-color: green;
   width: 100%;
-  background-image: linear-gradient(to bottom,green 30%,black);
+  background-image: linear-gradient(to bottom,green 10%,black);
 
 
 }
