@@ -86,7 +86,7 @@ body {
 .footer1 {
   background-color: green;
   width: 100%;
-  background-image: linear-gradient(to bottom,green 70%,black);
+  background-image: linear-gradient(to bottom,green 50%,black);
 
 
 }
