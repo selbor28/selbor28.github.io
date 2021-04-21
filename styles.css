@@ -30,18 +30,21 @@ text-align: center;
 .column.left {
 background: black;
 width: 25%;
-background-image: linear-gradient(to bottom right,white,black);
+background-image: linear-gradient(to bottom right,white 60%,black);
 color: black;
 }
 .column.right {
 background: black;
 width: 25%;
-background-image: linear-gradient(to bottom right,white,black);
+background-image: linear-gradient(to bottom right,white 60%,black);
 color: black;
 }
 #btn1 {
   background-color: aqua;
   border: none;
+}
+#calabel {
+  color: green;
 }
 #gobtn {
 padding: 0;
@@ -81,7 +84,7 @@ body {
 .footer1 {
   background-color: green;
   width: 100%;
-  background-image: linear-gradient(to bottom right,green,black);
+  background-image: linear-gradient(to bottom,green 70%,black);
 
 
 }
