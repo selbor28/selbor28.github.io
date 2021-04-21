@@ -40,10 +40,11 @@ background-image: linear-gradient(to bottom right,white 10%,black);
 color: black;
 }
 #btn1 {
+
   background-color: #e88a3a;
   border: solid 1px;
   padding: 10px;
-  margin: auto;
+  margin: 5px;
   border-color: #6e4020;
 }
 h4.calabel {
@@ -84,7 +85,8 @@ body {
 .footer1 {
   background-color: green;
   width: 100%;
-  background-image: linear-gradient(to bottom,green,black,white 1%);
-
+  background-image: linear-gradient(to bottom,green,black 90%);
+  text-align: center;
+  padding: 1px;
 
 }
