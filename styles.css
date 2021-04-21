@@ -9,18 +9,19 @@ text-align: center;
 .header1 {
   width: 100%;
   height: 20%;
-  background: yellow;
+  background: black;
   margin: 2px;
   padding: 10px;
   border: solid 2px;
   border-color: black;
+
+  background-image: linear-gradient(down,white,black);
+
 }
 .column {
   float: left;
   padding: 5px;
   border:  solid 2px;
-  background-color: #000000;
-  background-image: linear-gradient(down,white,black);
 
 
 
