@@ -1,6 +1,5 @@
 * {
   box-sizing: border-box;
-
 }
 h1.head1 {
   color: white;
@@ -30,21 +29,24 @@ text-align: center;
 .column.left {
 background: black;
 width: 25%;
-background-image: linear-gradient(to bottom right,white 60%,black);
+background-image: linear-gradient(to bottom right,white 30%,black);
 color: black;
 }
 .column.right {
 background: black;
 width: 25%;
-background-image: linear-gradient(to bottom right,white 60%,black);
+background-image: linear-gradient(to bottom right,white 30%,black);
 color: black;
 }
 #btn1 {
   background-color: orange;
   border: none;
+  padding: 0;
+  margin: auto;
 }
 #calabel {
   color: green;
+
 }
 #gobtn {
 padding: 0;
