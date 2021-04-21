@@ -30,17 +30,17 @@ text-align: center;
 .column.left {
 background: black;
 width: 25%;
-background-image: linear-gradient(to bottom right,white 30%,black);
+background-image: linear-gradient(to bottom right,white 20%,black);
 color: black;
 }
 .column.right {
 background: black;
 width: 25%;
-background-image: linear-gradient(to bottom right,white 30%,black);
+background-image: linear-gradient(to bottom right,white 20%,black);
 color: black;
 }
 #btn1 {
-  background-color: #6e4020;
+  background-color: #e88a3a;
   border: none;
   padding: 0;
   margin: auto;
@@ -90,7 +90,7 @@ body {
 .footer1 {
   background-color: green;
   width: 100%;
-  background-image: linear-gradient(to bottom,green 50%,black);
+  background-image: linear-gradient(to bottom,green 30%,black);
 
 
 }
