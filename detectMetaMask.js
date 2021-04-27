@@ -12,21 +12,3 @@ if (provider) {
 } else {
   console.log('Please install MetaMask!');
 }
-
-
-
-
-
-
-const ethereumButton = document.querySelector('.enableEthereumButton');
-const showAccount = document.querySelector('.showAccount');
-
-ethereumButton.addEventListener('click', () => {
-  getAccount();
-});
-
-async function getAccount() {
-  const accounts = await ethereum.request({ method: 'eth_requestAccounts' });
-  const account = accounts[0];
-
-}
