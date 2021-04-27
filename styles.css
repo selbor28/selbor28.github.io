@@ -18,6 +18,14 @@ text-align: center;
   background-image: linear-gradient(to bottom right,white,black);
 
 }
+.enableEthereumButton {
+  background-color: #e88a3a;
+  border: solid 1px;
+  padding: 10px;
+  margin: 5px;
+  border-color: #6e4020;
+  font-weight: bold;
+}
 .column {
   float: left;
   padding: 5px;
@@ -46,11 +54,14 @@ color: black;
   padding: 10px;
   margin: 5px;
   border-color: #6e4020;
+  font-weight: bold;
+
 }
 h4.calabel {
   color: green;
 text-align: center;
 background-image: radial-gradient(black,green);
+border-radius: 25px;
 
 
 }
